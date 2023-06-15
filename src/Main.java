@@ -152,7 +152,7 @@ public class Main {
                 break;
         }
 
-
+        System.out.println("Завершение 5-го ДЗ");
 
     }
 }
